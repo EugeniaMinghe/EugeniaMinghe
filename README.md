@@ -92,6 +92,6 @@ Busco contribuir en equipos multidisciplinarios donde pueda generar valor estrat
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
   </a>
   <a href="mailto:eugeniaminghetti@hotmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Office_Outlook_%282018–present%29.svg/1024px-Microsoft_Office_Outlook_%282018–present%29.svg.png" alt="Outlook" width="40" height="40"/>
+    <img src="assets/icons8-microsoft-outlook-64.png" alt="Outlook" width="40" height="40"/>
   </a>
 </p>
