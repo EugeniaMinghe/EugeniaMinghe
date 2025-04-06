@@ -84,7 +84,7 @@ Busco contribuir en equipos multidisciplinarios donde pueda generar valor estrat
 
 <h2 align="center"> 🔗 Conéctate conmigo: </h2>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/eugenia-minghetti-017271280/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
@@ -92,6 +92,6 @@ Busco contribuir en equipos multidisciplinarios donde pueda generar valor estrat
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
   </a>
   <a href="mailto:eugeniaminghetti@hotmail.com" target="_blank">
-    <img src="assets/icons8-microsoft-outlook-64.png" alt="Outlook" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="Outlook" width="40" height="40"/>
   </a>
 </p>
