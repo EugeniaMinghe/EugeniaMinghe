@@ -85,6 +85,6 @@ Busco contribuir en equipos multidisciplinarios donde pueda generar valor estrat
 <h2 align="center"> 🔗 Conéctate conmigo: </h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/eugenia-minghetti-017271280/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
   </a>
 </p>
