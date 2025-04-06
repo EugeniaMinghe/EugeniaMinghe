@@ -83,8 +83,14 @@ Desde las ciencias naturales hacia el análisis de datos, combino pensamiento an
 Busco contribuir en equipos multidisciplinarios donde pueda generar valor estratégico y continuar creciendo profesionalmente. Siempre lista para enfrentar desafíos complejos y contribuir con soluciones innovadoras en el mundo del análisis de datos.
 
 <h2 align="center"> 🔗 Conéctate conmigo: </h2>
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/eugenia-minghetti-017271280/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="mailto:eugeniaminghetti@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
+  </a>
+  <a href="mailto:eugeniaminghetti@hotmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Outlook" width="40" height="40"/>
   </a>
 </p>
