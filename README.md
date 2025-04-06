@@ -3,14 +3,16 @@
 
 🎓 **Licenciada en Biología** y **Doctora en Ciencias Naturales** (UNLP) con especialización en **Entomología** y más de 8 años de experiencia en investigación científica en la División Entomología del Museo de La Plata. Apasionada del **análisis de datos**, busco transformar información en estrategias accionables y generar **insights para la toma de decisiones**.  
 
-## 🔍 Un poco más sobre mí  
-Mi formación y experiencia como científica me ha permitido:  
-✔️ Gestionar proyectos de manera efectiva.  
-✔️ Resolver problemas, buscando soluciones efectivas. 
-✔️ Trabajar en equipo y en entornos multidisciplinarios.  
-✔️ Comunicar resultados de manera clara y precisa.  
-✔️ Comprender la importancia de complementar mi formación con el uso de herramientas tecnológicas avanzadas. 
-✔️ Aprender continuamente y actualizarme constantemente. 
+## 🔍 Un poco más sobre mí
+
+Mi formación y experiencia como científica me ha permitido:
+
+- ✅ Gestionar proyectos de manera efectiva.  
+- 🧠 Resolver problemas, buscando soluciones eficaces.  
+- 🤝 Trabajar en equipo y en entornos multidisciplinarios.  
+- 🗣️ Comunicar resultados de manera clara y precisa.  
+- 🧰 Comprender la importancia de complementar mi formación con el uso de herramientas tecnológicas avanzadas.  
+- 📚 Aprender continuamente y actualizarme constantemente.  
 
 ## <h2 align="center"> 🖥️ Stack Tecnológico y Herramientas </h2>
 <p align="center">
@@ -25,6 +27,8 @@ Mi formación y experiencia como científica me ha permitido:
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
 </p>
 
 ## 🔭 Actualmente estoy trabajando en expandir mi perfil profesional como Data Analyst aplicando herramientas para:
@@ -36,17 +40,47 @@ Mi formación y experiencia como científica me ha permitido:
 ☁️ Uso de servicios en la nube para almacenamiento, procesamiento y automatización de flujos de trabajo.
 
 ## 💡 Habilidades clave  
-- Análisis de datos e integración de múltiples fuentes de información.
-- Craeción y consulta de bases de datos relacionales.  
-- Modelado de datos y generación de reportes estratégicos.
-- Creación de dashboards intercativos y visualmente atractivos.
-- Uso de servicios en la nube. 
+- Análisis de datos e integración de múltiples fuentes de información.  
+- Creación y consulta de bases de datos relacionales.  
+- Modelado de datos y generación de reportes estratégicos.  
+- Creación de dashboards interactivos y visualmente atractivos.  
+- Uso de servicios en la nube.  
 - Desarrollo y gestión de proyectos aplicando tecnología.  
 - Comunicación efectiva en inglés y español.  
 - Docencia universitaria y mentoría académica.  
 
-## 🌍 Explorando nuevas oportunidades  
-Mi objetivo es combinar mi experiencia en ciencias naturales con mis habilidades en **data analytics**, impulsando soluciones basadas en datos en sectores como investigación, educación, negocios, tecnología y más. Busco contribuir en equipos multidisciplinarios donde pueda generar valor estratégico y continuar creciendo profesionalmente. Siempre lista para enfrentar desafíos complejos y contribuir con soluciones innovadoras en el mundo del análisis de datos.
+### 🧠 Habilidades blandas
+
+**🧭 Organización y autonomía**  
+- Gestión del tiempo  
+- Capacidad de planificación y organización  
+- Iniciativa y autonomía  
+- Perseverancia y tenacidad  
+
+**🧩 Trabajo en equipo y liderazgo**  
+- Colaboración en entornos multidisciplinarios  
+- Motivación de equipos  
+- Inteligencia emocional  
+- Empatía y escucha activa  
+
+**⚙️ Resolución de problemas y adaptabilidad**  
+- Toma de decisiones  
+- Pensamiento crítico  
+- Facilidad de adaptación a nuevos entornos y desafíos  
+- Aprendizaje continuo 
+
+## 🌍 Mi propósito profesional  
+
+Desde las ciencias naturales hacia el análisis de datos, combino pensamiento analítico, mirada estratégica y pasión por la mejora continua. Mi objetivo es aplicar mis habilidades técnicas y experiencia en investigación para **extraer insights**, **optimizar procesos** y **generar impacto** en sectores como la educación, la ciencia, los negocios, el deporte o el mundo IT.  
+
+📌 **En lo profesional, me definen:**
+- 🧠 Enfoque orientado a la resolución de problemas.  
+- 📚 Compromiso con el aprendizaje continuo.  
+- 📊 Capacidad para traducir datos en acciones estratégicas.  
+- 🤝 Experiencia liderando proyectos y trabajando en equipo.  
+- 🧾 Perseverancia, organización y atención al detalle. 
+
+Busco contribuir en equipos multidisciplinarios donde pueda generar valor estratégico y continuar creciendo profesionalmente. Siempre lista para enfrentar desafíos complejos y contribuir con soluciones innovadoras en el mundo del análisis de datos.
 
 <h2 align="center"> 🔗 Conéctate conmigo: </h2>
 <p align="center">
