@@ -83,4 +83,4 @@ Desde las ciencias naturales hacia el análisis de datos, combino pensamiento an
 Busco contribuir en equipos multidisciplinarios donde pueda generar valor estratégico y continuar creciendo profesionalmente. Siempre lista para enfrentar desafíos complejos y contribuir con soluciones innovadoras en el mundo del análisis de datos.
 
 <h2 align="center"> 🔗 Conéctate conmigo: </h2>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?logo=linkedin&logoColor=0A66C2&style=flat-square)](https://www.linkedin.com/in/eugenia-minghetti-017271280/)
+[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/eugenia-minghetti-017271280/)
